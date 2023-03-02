@@ -26,7 +26,6 @@ const Index = () => {
 
     return (
         <div>
-            <pre>{JSON.stringify(categoria, null, 2)}</pre>
             <Nav />
             <h1>Categorias Edit</h1>
             <Link href="/categorias">Voltar</Link>
